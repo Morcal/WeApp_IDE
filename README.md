@@ -6,7 +6,7 @@ Demo源代码：https://pan.baidu.com/s/1mhUq4rQ （密码：uch3）
 
 ##破解步骤
 
-***Mac测试可用，Windows测试可用***
+***Windows测试可用***
 
 1. 下载开发工具，并安装（***注意：一定要安装0.9版本***）
 2. 打开『微信Web开发者工具』的程序目录
