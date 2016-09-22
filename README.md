@@ -1,7 +1,5 @@
 ##相关资源
 
-开发群：QQ（452137839）
-
 开发工具v0.9：https://pan.baidu.com/s/1jI6orRo （密码：a9wc）
 
 Demo源代码：https://pan.baidu.com/s/1mhUq4rQ （密码：uch3）
